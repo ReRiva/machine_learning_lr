@@ -34,20 +34,20 @@ The t-test was performed using both Scipy.stats module and a mathematical approa
 
 **Linear Regression**
 
-[Linear Regression in 2 minutes by Visually Explained](https://www.youtube.com/watch?v=CtsRRUddV2s)
-[Linear Regression Cleary Explained by StatQuest](https://www.youtube.com/watch?v=nk2CQITm_eo&t=315s)
-[Least Squares Method](https://www.youtube.com/watch?v=S0ptaAXNxBU)
-[Wikipedia Simple Linear Regression]( https://en.wikipedia.org/wiki/Simple_linear_regression)
-[SciPy Minimize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html)
-[Scipy Linregress]( https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html)
-[Numpy Polyfit]( https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+[Linear Regression in 2 minutes by Visually Explained](https://www.youtube.com/watch?v=CtsRRUddV2s)<br>
+[Linear Regression Cleary Explained by StatQuest](https://www.youtube.com/watch?v=nk2CQITm_eo&t=315s)<br>
+[Least Squares Method](https://www.youtube.com/watch?v=S0ptaAXNxBU)<br>
+[Wikipedia Simple Linear Regression]( https://en.wikipedia.org/wiki/Simple_linear_regression)<br>
+[SciPy Minimize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html)<br>
+[Scipy Linregress]( https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html)<br>
+[Numpy Polyfit]( https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)<br>
 Weekly Classes
 
 **T-Test**
 
-[Null Hypothesis Definition – Biology Online](https://www.biologyonline.com/dictionary/null-hypothesis#:~:text=Null%20hypothesis%20is%20defined%20as,exists%20between%20given%20observed%20variables%E2%80%9D)
-[t-test Confidence Interval - Khan Academy](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/old-confidence-interval-videos/v/t-statistic-confidence-interval)
-[Paired Sample t-test Overview - Stats4Stem](https://www.stats4stem.org/hypothesis-testing-paired-t-test)
-[Scipy Paired Sample t-test Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html)
+[Null Hypothesis Definition – Biology Online](https://www.biologyonline.com/dictionary/null-hypothesis#:~:text=Null%20hypothesis%20is%20defined%20as,exists%20between%20given%20observed%20variables%E2%80%9D)<br>
+[t-test Confidence Interval - Khan Academy](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/old-confidence-interval-videos/v/t-statistic-confidence-interval)<br>
+[Paired Sample t-test Overview - Stats4Stem](https://www.stats4stem.org/hypothesis-testing-paired-t-test)<br>
+[Scipy Paired Sample t-test Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html)<br>
 Weekly Classes
 
